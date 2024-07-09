@@ -1,4 +1,5 @@
-#Create an image gallery.
+# Create an image gallery
+
   ...
 ## where users can view a collection of images.
 This is a simple project for an image gallery that displays a group of images using HTML, CSS, and JS to facilitate and
